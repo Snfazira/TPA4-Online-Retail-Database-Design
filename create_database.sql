@@ -1,0 +1,3 @@
+SHOW DATABASES; 
+
+CREATE DATABASE penjualan_barang; 

@@ -1,0 +1,1 @@
+SELECT kode_kasir, nama_kasir, jk_kasir FROM kasir WHERE jk_kasir = 'Wanita' AND kode_kasir = 'K09';
